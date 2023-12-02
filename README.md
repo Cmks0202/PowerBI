@@ -1,6 +1,6 @@
-# PowerBI
+## PowerBI
 
-# Tabela Caledário
+# Tabela Calendário
 A tabela de calendário é útil em análises temporais por várias razões:<br>
 1 - Padronização: Fornece uma padronização para as datas em todo o modelo, garantindo consistência nas análises. <br>
 2 - Facilidade de Filtragem: Permite filtrar dados com base em períodos específicos (dia, mês, ano) de maneira mais fácil e intuitiva.<br>
