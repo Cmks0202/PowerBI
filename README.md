@@ -1,4 +1,4 @@
-## PowerBI
+# PowerBI
 
 # Tabela Calendário
 A tabela de calendário é útil em análises temporais por várias razões:<br>
