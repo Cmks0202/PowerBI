@@ -2,7 +2,7 @@
 
 ## Tabela Caledário
 A tabela de calendário é útil em análises temporais por várias razões:
-1 - Padronização: Fornece uma padronização para as datas em todo o modelo, garantindo consistência nas análises.
+1 - Padronização: Fornece uma padronização para as datas em todo o modelo, garantindo consistência nas análises. <br>
 2 - Facilidade de Filtragem: Permite filtrar dados com base em períodos específicos (dia, mês, ano) de maneira mais fácil e intuitiva.
 3 - Comparação Temporal: Facilita a comparação de dados ao longo do tempo.
 4 - Integração com Dados Externos: Pode ser usada para integrar informações externas, como feriados ou eventos importantes.
